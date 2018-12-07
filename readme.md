@@ -1,1 +1,2 @@
-estariamos mejor con 
+#Indigo.js
+#install: npm intstall indigo --save
