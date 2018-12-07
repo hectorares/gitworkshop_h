@@ -5,3 +5,4 @@
 #usage: import indigo js
 estariamos mejor con 
 otra linea
+1 linea master
